@@ -7,17 +7,14 @@
    - Open the VSC terminal by pressing Ctrl + ~.
 
 2. *Navigate to the Project Directory*:
-   bash
    cd ./blogapp/
    
 
 3. *Install Dependencies*:
-   bash
    npm install
    
 
 4. *Start the Development Server*:
-   bash
    npm run dev
    
 
@@ -36,12 +33,10 @@
    - Download and run MongoDB on your system. Ensure the MongoDB service is active.
 
 3. *Install Dependencies*:
-   bash
    npm install
    
 
 4. *Start the Backend Server*:
-   bash
    npm start
    
 
