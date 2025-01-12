@@ -1,16 +1,59 @@
 # Role-Based Access Control (RBAC) Assignment
 
-# FRONTEND 
-1 ) Open the frontend in VSC after that Open VSC terminal (CTRL+~)
-2) TYPE IN  VSC TERMINAL --   cd .\blogapp\ 
-3) TYPE IN VSC TERMINAL --   npm i 
-4) TYPE IN VSC TERMINAL --  npm run dev 
-5) COPY the port -- ex == http://localhost:5173/  and past in google crome 
+## Frontend Setup
 
-# BACKEND
-1) Open the backend folder in VSC terminal 
-2) download mongoDB and run 
-3) TYPE IN VSC TERMINAL --  npm i
-4) TYPE IN VSC TERMINAL --  npm start 
+1. *Open the Frontend Project*:
+   - Open the frontend project in Visual Studio Code (VSC).
+   - Open the VSC terminal by pressing Ctrl + ~.
 
-After run the website... Role-Based Access Control 
+2. *Navigate to the Project Directory*:
+   bash
+   cd ./blogapp/
+   
+
+3. *Install Dependencies*:
+   bash
+   npm install
+   
+
+4. *Start the Development Server*:
+   bash
+   npm run dev
+   
+
+5. *Access the Application*:
+   - Copy the port URL (e.g., http://localhost:5173/) displayed in the terminal.
+   - Paste the URL into Google Chrome to view the application.
+
+---
+
+## Backend Setup
+
+1. *Open the Backend Project*:
+   - Open the backend folder in Visual Studio Code (VSC).
+
+2. *Install MongoDB*:
+   - Download and run MongoDB on your system. Ensure the MongoDB service is active.
+
+3. *Install Dependencies*:
+   bash
+   npm install
+   
+
+4. *Start the Backend Server*:
+   bash
+   npm start
+   
+
+---
+
+## Running the Application
+
+Once both the frontend and backend servers are running, access the website using the frontend URL (e.g., http://localhost:5173/).
+
+---
+
+## Resources
+
+Screencast link:
+[Google Drive Resources](https://drive.google.com/drive/folders/1PdU5h1nq7cLVUGJQVuc7ZXWJnuFcMJi-?usp=sharing)
