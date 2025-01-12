@@ -1,0 +1,16 @@
+# Role-Based Access Control (RBAC) Assignment
+
+# FRONTEND 
+1 ) Open the frontend in VSC after that Open VSC terminal (CTRL+~)
+2) TYPE IN  VSC TERMINAL --   cd .\blogapp\ 
+3) TYPE IN VSC TERMINAL --   npm i 
+4) TYPE IN VSC TERMINAL --  npm run dev 
+5) COPY the port -- ex == http://localhost:5173/  and past in google crome 
+
+# BACKEND
+1) Open the backend folder in VSC terminal 
+2) download mongoDB and run 
+3) TYPE IN VSC TERMINAL --  npm i
+4) TYPE IN VSC TERMINAL --  npm start 
+
+After run the website... Role-Based Access Control 
